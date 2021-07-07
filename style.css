@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.full-stack-btn {
+  background-color: #fd7e14;
+  color: white;
+}
+
+.full-stack-btn:hover {
+  color: white;
+  background-color: #fa903a;
+}
+/*# sourceMappingURL=style.css.map */
